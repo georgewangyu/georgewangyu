@@ -1,6 +1,11 @@
 ## Hi, I'm snackoverflowgeorge 👋
 
-FAANG engineer. Building side projects and documenting the journey at **[Snack Overflow](https://www.youtube.com/@snackoverflowgeorge)**.
+FAANG engineer. Building side projects and documenting the journey.
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hellogeorgehq@gmail.com)
 
 ---
 
@@ -15,12 +20,12 @@ FAANG engineer. Building side projects and documenting the journey at **[Snack O
 
 ---
 
-## What I've Built
+## What I'm Building
 
-- 📱 **[Huddle](https://github.com/georgewangyu/Huddle)** — iOS live chat rooms app (Swift)
-- 🎙️ **[notes-app](https://github.com/georgewangyu/notes-app)** — Voice-to-notes with AI summarization (TypeScript)
-- 🎧 **[Podcast Free Ads](https://github.com/georgewangyu/Podcast_Free_Ads)** — ML model that strips ads from podcast audio
-- 🤖 **[personal-assistant-gpt](https://github.com/georgewangyu/personal-assistant-gpt)** — GPT-powered personal assistant
+- 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
+- ⚡ **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
+- 🤖 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
+- 🐦 **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
 
 ---
 
@@ -34,12 +39,3 @@ FAANG engineer. Building side projects and documenting the journey at **[Snack O
 ---
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgewangyu&show_icons=true&theme=dark&hide_border=true)](https://github.com/georgewangyu)
-
----
-
-## Connect
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hellogeorgehq@gmail.com)

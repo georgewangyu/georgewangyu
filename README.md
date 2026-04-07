@@ -26,6 +26,7 @@ FAANG engineer. Building side projects and documenting the journey.
 - ⚡ **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
 - 🤖 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
 - 🐦 **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
+- 🔗 **[SnackOverflow](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** — Personal landing page and link hub
 
 ---
 

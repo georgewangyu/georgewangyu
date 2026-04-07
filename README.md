@@ -1,4 +1,4 @@
-## Hi, I'm George 👋
+## Hi, I'm snackoverflowgeorge 👋
 
 FAANG engineer. Building side projects and documenting the journey.
 
@@ -33,7 +33,7 @@ FAANG engineer. Building side projects and documenting the journey.
 ## What I'm Doing
 
 - Shipping at a FAANG company
-- Finishing up OMSCS @ Georgia Tech
+- ![Georgia Tech](https://img.shields.io/badge/M.S._Computer_Science-Georgia_Tech-B3A369?style=flat&labelColor=003057) — Machine Learning specialization
 - Making content about SWE life, systems, and early-career stuff
 - Building AI-native tools and personal automation systems
 

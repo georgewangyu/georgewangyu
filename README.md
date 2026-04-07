@@ -1,4 +1,4 @@
-## Hi, I'm snackoverflowgeorge 👋
+## Hi, I'm George 👋
 
 FAANG engineer. Building side projects and documenting the journey.
 

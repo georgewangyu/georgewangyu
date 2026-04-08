@@ -32,10 +32,10 @@ FAANG engineer. Building side projects and documenting the journey.
 
 ## What I'm Doing
 
-- Shipping at a FAANG company
-- ![Georgia Tech](https://img.shields.io/badge/M.S._Computer_Science-Georgia_Tech-B3A369?style=flat&labelColor=003057) — Machine Learning specialization
-- Making content about SWE life, systems, and early-career stuff
-- Building AI-native tools and personal automation systems
+- ![FAANG](https://img.shields.io/badge/Software_Engineer-FAANG-181717?style=flat&logo=github&logoColor=white) — shipping features and solving hard problems
+- ![Georgia Tech](https://img.shields.io/badge/M.S._Computer_Science-Georgia_Tech-B3A369?style=flat&labelColor=003057) — Machine Learning specialization, graduated December 2025
+- ![Content](https://img.shields.io/badge/Content_Creator-Snack_Overflow-FF0000?style=flat&logo=youtube&logoColor=white) — SWE life, systems, and early-career stuff
+- ![AI](https://img.shields.io/badge/Builder-AI_Native_Tools-412991?style=flat&logo=openai&logoColor=white) — personal automation and agents
 
 ---
 

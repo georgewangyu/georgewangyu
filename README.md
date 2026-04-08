@@ -1,6 +1,6 @@
-## Hi, I'm snackoverflowgeorge 👋
+## Hi, I'm George 👋
 
-FAANG engineer. Building side projects and documenting the journey.
+FAANG engineer. Building side projects and documenting the journey as **[snackoverflowgeorge](https://www.youtube.com/@snackoverflowgeorge)**.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)

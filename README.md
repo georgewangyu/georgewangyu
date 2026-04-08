@@ -11,12 +11,17 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 
 **Stack:**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
@@ -39,4 +44,4 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgewangyu&show_icons=true&theme=dark&hide_border=true)](https://github.com/georgewangyu)
+[![GitHub Streak](https://streak-stats.demolab.com?user=georgewangyu&theme=dark&hide_border=true)](https://github.com/georgewangyu)

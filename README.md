@@ -1,11 +1,12 @@
 ## Hi, I'm George 👋
 
-FAANG engineer. Building side projects and documenting the journey as **[snackoverflowgeorge](https://www.youtube.com/@snackoverflowgeorge)**.
+FAANG engineer. Building side projects and documenting the journey as **[snackoverflowgeorge](https://www.tiktok.com/@snackoverflowgeorge)**.
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hellogeorgehq@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-35.8K_followers-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
+[![Instagram](https://img.shields.io/badge/Instagram-13.1K_followers-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
+
+[![YouTube](https://img.shields.io/badge/YouTube-1.95K_subscribers-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
+[![Email](https://img.shields.io/badge/Email-hellogeorgehq%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hellogeorgehq@gmail.com)
 
 ---
 

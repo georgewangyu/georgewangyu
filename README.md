@@ -26,13 +26,18 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 
 ---
 
+## App
+
+- 🎙️ **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first Mac dictation app with Ambient Capture
+
+---
+
 ## What I'm Building
 
 - 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
 - ⚡ **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
 - 🤖 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
 - 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Resume variant engine: upload, target a role, answer gap questions, download LaTeX + PDF
-- 🎙️ **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first Mac dictation app with a public landing page
 - 🐦 **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
 - 🔗 **[SnackOverflow](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** — Personal landing page and link hub
 

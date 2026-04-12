@@ -28,7 +28,11 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 
 ## App
 
-- 🎙️ **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first Mac dictation app with Ambient Capture
+[<img src="assets/I3CGy.png" alt="SnackVoice icon" width="72" />](https://snack-voice.vercel.app/)
+
+### [SnackVoice](https://snack-voice.vercel.app/)
+
+Local-first Mac dictation app with Ambient Capture.
 
 ---
 

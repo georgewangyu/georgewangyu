@@ -45,6 +45,7 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 - 🤖 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
 - 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Resume variant engine: upload, target a role, answer gap questions, download LaTeX + PDF
 - 🐦 **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
+- 💼 **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation CLI for OAuth bootstrap and official posting
 - 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** — Personal landing page and link hub
 
 ---

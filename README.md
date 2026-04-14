@@ -43,6 +43,7 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 - 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
 - ⚡ **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
 - 🤖 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
+- 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** — Public template for a source-grounded, agent-managed markdown wiki (with autologging model)
 - 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Resume variant engine: upload, target a role, answer gap questions, download LaTeX + PDF
 - 🐦 **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
 - 💼 **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation CLI for OAuth bootstrap and official posting

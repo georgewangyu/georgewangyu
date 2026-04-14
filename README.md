@@ -40,15 +40,23 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 
 ## What I'm Building
 
-- 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
-- ⚡ **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
-- 🤖 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
-- 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** — Public template for a source-grounded, agent-managed markdown wiki (with autologging model)
-- 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Resume variant engine: upload, target a role, answer gap questions, download LaTeX + PDF
-- 🧠 **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Reusable prompt layers and agent skill formats for thinking and coding workflows
-- 🐦 **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
-- 💼 **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation CLI for OAuth bootstrap and official posting
-- 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** — Personal landing page and link hub
+### Systems & Frameworks
+
+- <img src="assets/brain-circuit.svg" alt="" width="18" valign="text-bottom" /> **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
+- <img src="assets/blocks.svg" alt="" width="18" valign="text-bottom" /> **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
+- <img src="assets/message-square.svg" alt="" width="18" valign="text-bottom" /> **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Reusable prompt layers and agent skill formats for thinking and coding workflows
+- <img src="assets/book-open.svg" alt="" width="18" valign="text-bottom" /> **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** — Public template for a source-grounded, agent-managed markdown wiki (with autologging model)
+
+### Products & Experiments
+
+- <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
+- <img src="assets/file-text.svg" alt="" width="18" valign="text-bottom" /> **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Resume variant engine: upload, target a role, answer gap questions, download LaTeX + PDF
+- <img src="assets/link-2.svg" alt="" width="18" valign="text-bottom" /> **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** — Personal landing page and link hub
+
+### Automation Clients
+
+- <img src="assets/bird.svg" alt="" width="18" valign="text-bottom" /> **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
+- <img src="assets/briefcase-business.svg" alt="" width="18" valign="text-bottom" /> **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation CLI for OAuth bootstrap and official posting
 
 ---
 

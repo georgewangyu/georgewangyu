@@ -50,6 +50,7 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 ### Products & Experiments
 
 - <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
+- <img src="assets/file-text.svg" alt="" width="18" valign="text-bottom" /> **[DocConvert](https://github.com/georgewangyu/docconvert)** — Skill-first document conversion toolkit (LaTeX -> PDF and multi-format -> Markdown)
 - <img src="assets/file-text.svg" alt="" width="18" valign="text-bottom" /> **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Resume variant engine: upload, target a role, answer gap questions, download LaTeX + PDF
 - <img src="assets/link-2.svg" alt="" width="18" valign="text-bottom" /> **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** — Personal landing page and link hub
 

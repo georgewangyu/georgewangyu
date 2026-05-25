@@ -60,6 +60,7 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 - <img src="assets/briefcase-business.svg" alt="" width="18" valign="text-bottom" /> **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation CLI for OAuth bootstrap and official posting
 - <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[youtubebot](https://github.com/georgewangyu/youtubebot)** — YouTube outlier research CLI for finding low-subscriber, high-view inspiration videos
 - <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[tiktokbot](https://github.com/georgewangyu/tiktokbot)** — TikTok Display API OAuth client for own-account video analytics and outlier ranking
+- <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[igbot](https://github.com/georgewangyu/igbot)** — Instagram official API client for owned-account media analytics, insights, and outlier ranking
 - <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[capcutbot](https://github.com/georgewangyu/capcutbot)** — CapCut desktop draft automation CLI for short-form editing workflows
 
 ---

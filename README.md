@@ -45,6 +45,7 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 - <img src="assets/brain-circuit.svg" alt="" width="18" valign="text-bottom" /> **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
 - <img src="assets/blocks.svg" alt="" width="18" valign="text-bottom" /> **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
 - <img src="assets/message-square.svg" alt="" width="18" valign="text-bottom" /> **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Reusable prompt layers and agent skill formats for thinking and coding workflows
+- <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval harness for coding-agent workflow discipline, steering docs, dirty worktrees, verification, and honest reporting
 - <img src="assets/book-open.svg" alt="" width="18" valign="text-bottom" /> **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** — Public template for a source-grounded, agent-managed markdown wiki (with autologging model)
 
 ### Products & Experiments

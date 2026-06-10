@@ -44,6 +44,7 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 
 - <img src="assets/brain-circuit.svg" alt="" width="18" valign="text-bottom" /> **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
 - <img src="assets/blocks.svg" alt="" width="18" valign="text-bottom" /> **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
+- <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning traction radar for scoring emerging product, creator, social, and developer trends
 - <img src="assets/message-square.svg" alt="" width="18" valign="text-bottom" /> **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Reusable prompt layers and agent skill formats for thinking and coding workflows
 - <img src="assets/bot.svg" alt="" width="18" valign="text-bottom" /> **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval harness for coding-agent workflow discipline, steering docs, dirty worktrees, verification, and honest reporting
 - <img src="assets/blocks.svg" alt="" width="18" valign="text-bottom" /> **[GeorgeTeamAgentTemplate](https://github.com/georgewangyu/GeorgeTeamAgentTemplate)** — Starter template for standardizing team agent setup with instructions, skills, hooks, tools, and memory conventions

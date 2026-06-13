@@ -44,6 +44,7 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 
 - 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
 - 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
+- 🔁 **[GeorgeLoops](https://github.com/georgewangyu/GeorgeLoops)** — Catalog of recurring AI loops, scheduled workflow scans, and maintenance rituals
 - 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning traction radar for scoring emerging product, creator, social, and developer trends
 - 💬 **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Reusable prompt layers and agent skill formats for thinking and coding workflows
 - 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval harness for coding-agent workflow discipline, steering docs, dirty worktrees, verification, and honest reporting

@@ -1,12 +1,110 @@
 ## Hi, I'm George 👋
 
-FAANG engineer. Building side projects and documenting the journey as **[snackoverflowgeorge](https://www.tiktok.com/@snackoverflowgeorge)**.
+FAANG engineer building agent systems, memory workflows, eval layers, and
+creator tools in public as **[snackoverflowgeorge](https://www.tiktok.com/@snackoverflowgeorge)**.
 
 [![TikTok](https://img.shields.io/badge/TikTok-35.8K_followers-FE2C55?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
 [![Instagram](https://img.shields.io/badge/Instagram-13.1K_followers-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
-
 [![YouTube](https://img.shields.io/badge/YouTube-1.95K_subscribers-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
 [![Email](https://img.shields.io/badge/Email-hellogeorgehq%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hellogeorgehq@gmail.com)
+
+---
+
+## Start Here
+
+- **[Featured Projects](#featured-projects)** - the best first clicks.
+- **[AI systems / agent infrastructure](#ai-systems--agent-infrastructure)** -
+  memory, reusable skills, evals, steering docs, and team-agent setup.
+- **[Creator distribution tools](#creator-distribution-tools)** - bots and
+  radars for spotting signals, publishing, and learning from short-form
+  platforms.
+- **[Products / experiments](#products--experiments)** - local-first apps,
+  resume tooling, document conversion, and SaaS/front-end experiments.
+
+---
+
+## Featured Projects
+
+The best starting points if you want to see the shape of the work.
+
+- <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first
+  Mac dictation app with Ambient Capture for turning spoken context into usable
+  notes.
+- 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** —
+  Reusable execution skills that turn messy workflows into repeatable agent
+  capabilities.
+- 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — A public
+  personal-OS pattern for knowledge, agents, automations, and daily workflows.
+- 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval
+  harness for whether coding agents follow instructions under real-world
+  constraints like dirty worktrees, verification, and honest reporting.
+- 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning
+  traction radar for finding emerging product, creator, social, and developer
+  signals before they are obvious.
+- 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** —
+  Personal landing page and link hub for the public creator surface.
+
+---
+
+## Project Map
+
+### AI Systems & Agent Infrastructure
+
+- 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS
+  for knowledge, agents, and automation.
+- 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** —
+  Modular execution skills and reusable tooling for liferepo-style workflows.
+- 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Agent
+  evals for instruction-following, verification, and workflow discipline.
+- 🛠️ **[GeorgeTeamAgentTemplate](https://github.com/georgewangyu/GeorgeTeamAgentTemplate)** —
+  Opinionated team-agent starter with instructions, skills, hooks, tools, and
+  memory.
+- 💬 **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Prompt
+  layers and agent skill formats for thinking, coding, and workflow design.
+- 🔁 **[GeorgeLoops](https://github.com/georgewangyu/GeorgeLoops)** — Catalog
+  of recurring AI loops, scheduled scans, and maintenance rituals.
+- 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** —
+  Source-grounded, agent-managed markdown wiki template with autologging.
+
+### Creator Distribution Tools
+
+- 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning
+  radar for product, creator, social, and developer trend signals.
+- ❎ **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based
+  X/Twitter CLI client.
+- 💼 **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation
+  CLI for OAuth bootstrap and official posting.
+- 📺 **[youtubebot](https://github.com/georgewangyu/youtubebot)** — YouTube
+  outlier research CLI for low-subscriber, high-view inspiration videos.
+- 🎵 **[tiktokbot](https://github.com/georgewangyu/tiktokbot)** — TikTok
+  Display API client for owned-account analytics and outlier ranking.
+- 📸 **[igbot](https://github.com/georgewangyu/igbot)** — Instagram official
+  API client for owned-account media analytics, insights, and outlier ranking.
+- 🎬 **[capcutbot](https://github.com/georgewangyu/capcutbot)** — CapCut
+  desktop draft automation CLI for short-form editing workflows.
+
+### Products & Experiments
+
+- <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first
+  Mac dictation app with Ambient Capture.
+- 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Role-targeted
+  resume variant engine with LaTeX and PDF output.
+- 🔁 **[DocConvert](https://github.com/georgewangyu/docconvert)** —
+  Skill-first document conversion toolkit for LaTeX -> PDF and multi-format
+  -> Markdown workflows.
+- 🚀 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel
+  built for an AI product.
+- 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** —
+  Personal landing page and link hub.
+
+---
+
+## What I'm Doing
+
+- ![FAANG](https://img.shields.io/badge/Software_Engineer-FAANG-4285F4?style=flat&logo=google&logoColor=white) — shipping features and solving hard problems
+- ![Georgia Tech](https://img.shields.io/badge/M.S._Computer_Science-Georgia_Tech-B3A369?style=flat&labelColor=003057) — Machine Learning
+- ![Content](https://img.shields.io/badge/Content_Creator-Snack_Overflow-FF0000?style=flat&logo=youtube&logoColor=white) — SWE life, systems, and early-career content
+- ![AI](https://img.shields.io/badge/Builder-AI_Native_Tools-10A37F?style=flat&logo=openai&logoColor=white) — agents, personal automation, and applied AI infrastructure
 
 ---
 
@@ -29,52 +127,6 @@ FAANG engineer. Building side projects and documenting the journey as **[snackov
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=232F3E)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
----
-
-## Apps
-
-- <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first Mac dictation app with Ambient Capture
-
----
-
-## What I'm Building
-
-### Systems & Frameworks
-
-- 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS integrating knowledge, agents, and automation
-- 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** — Modular execution skills and reusable tooling for liferepo
-- 🔁 **[GeorgeLoops](https://github.com/georgewangyu/GeorgeLoops)** — Catalog of recurring AI loops, scheduled workflow scans, and maintenance rituals
-- 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning traction radar for scoring emerging product, creator, social, and developer trends
-- 💬 **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Reusable prompt layers and agent skill formats for thinking and coding workflows
-- 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval harness for coding-agent workflow discipline, steering docs, dirty worktrees, verification, and honest reporting
-- 🛠️ **[GeorgeTeamAgentTemplate](https://github.com/georgewangyu/GeorgeTeamAgentTemplate)** — Starter template for standardizing team agent setup with instructions, skills, hooks, tools, and memory conventions
-- 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** — Public template for a source-grounded, agent-managed markdown wiki (with autologging model)
-
-### Products & Experiments
-
-- 🚀 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel built for an AI product
-- 🔁 **[DocConvert](https://github.com/georgewangyu/docconvert)** — Skill-first document conversion toolkit (LaTeX -> PDF and multi-format -> Markdown)
-- 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Resume variant engine: upload, target a role, answer gap questions, download LaTeX + PDF
-- 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** — Personal landing page and link hub
-
-### Automation Clients
-
-- ❎ **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based X/Twitter CLI client
-- 💼 **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation CLI for OAuth bootstrap and official posting
-- 📺 **[youtubebot](https://github.com/georgewangyu/youtubebot)** — YouTube outlier research CLI for finding low-subscriber, high-view inspiration videos
-- 🎵 **[tiktokbot](https://github.com/georgewangyu/tiktokbot)** — TikTok Display API OAuth client for own-account video analytics and outlier ranking
-- 📸 **[igbot](https://github.com/georgewangyu/igbot)** — Instagram official API client for owned-account media analytics, insights, and outlier ranking
-- 🎬 **[capcutbot](https://github.com/georgewangyu/capcutbot)** — CapCut desktop draft automation CLI for short-form editing workflows
-
----
-
-## What I'm Doing
-
-- ![FAANG](https://img.shields.io/badge/Software_Engineer-FAANG-4285F4?style=flat&logo=google&logoColor=white) — shipping features and solving hard problems
-- ![Georgia Tech](https://img.shields.io/badge/M.S._Computer_Science-Georgia_Tech-B3A369?style=flat&labelColor=003057) — Machine Learning
-- ![Content](https://img.shields.io/badge/Content_Creator-Snack_Overflow-FF0000?style=flat&logo=youtube&logoColor=white) — SWE life, systems, and early-career stuff
-- ![AI](https://img.shields.io/badge/Builder-AI_Native_Tools-10A37F?style=flat&logo=openai&logoColor=white) — personal automation and agents
 
 ---
 

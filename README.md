@@ -3,10 +3,12 @@
 FAANG engineer building agent systems, memory workflows, eval layers, and
 creator tools in public as **[snackoverflowgeorge](https://www.tiktok.com/@snackoverflowgeorge)**.
 
-[![TikTok](https://img.shields.io/badge/TikTok-35.5K_followers-FE2C55?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
-[![Instagram](https://img.shields.io/badge/Instagram-15K_followers-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
-[![YouTube](https://img.shields.io/badge/YouTube-2.01K_subscribers-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
-[![Email](https://img.shields.io/badge/Email-hellogeorgehq%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hellogeorgehq@gmail.com)
+<p>
+  <a href="https://www.tiktok.com/@snackoverflowgeorge"><img alt="TikTok: 35.5K followers" src="https://img.shields.io/badge/TikTok-35.5K_followers-000000?style=for-the-badge&logo=tiktok&logoColor=25F4EE"></a>
+  <a href="https://www.instagram.com/snackoverflowgeorge"><img alt="Instagram: 15K followers" src="https://img.shields.io/badge/Instagram-15K_followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/@snackoverflowgeorge"><img alt="YouTube: 2.01K subscribers" src="https://img.shields.io/badge/YouTube-2.01K_subscribers-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="mailto:hellogeorgehq@gmail.com"><img alt="Email George" src="https://img.shields.io/badge/Email-hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 

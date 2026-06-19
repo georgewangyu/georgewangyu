@@ -3,10 +3,32 @@
 FAANG engineer building agent systems, memory workflows, eval layers, and
 creator tools in public as **[snackoverflowgeorge](https://www.tiktok.com/@snackoverflowgeorge)**.
 
-[![TikTok](https://img.shields.io/badge/TikTok-35.8K_followers-FE2C55?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
-[![Instagram](https://img.shields.io/badge/Instagram-13.1K_followers-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
-[![YouTube](https://img.shields.io/badge/YouTube-1.95K_subscribers-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
+[![TikTok](https://img.shields.io/badge/TikTok-35.5K_followers-FE2C55?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@snackoverflowgeorge)
+[![Instagram](https://img.shields.io/badge/Instagram-15K_followers-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snackoverflowgeorge)
+[![YouTube](https://img.shields.io/badge/YouTube-2.01K_subscribers-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@snackoverflowgeorge)
 [![Email](https://img.shields.io/badge/Email-hellogeorgehq%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hellogeorgehq@gmail.com)
+
+---
+
+**Stack:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=000000)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=20232A)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat&logo=bun&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=232F3E)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
@@ -105,28 +127,6 @@ The best starting points if you want to see the shape of the work.
 - ![Georgia Tech](https://img.shields.io/badge/M.S._Computer_Science-Georgia_Tech-B3A369?style=flat&labelColor=003057) — Machine Learning
 - ![Content](https://img.shields.io/badge/Content_Creator-Snack_Overflow-FF0000?style=flat&logo=youtube&logoColor=white) — SWE life, systems, and early-career content
 - ![AI](https://img.shields.io/badge/Builder-AI_Native_Tools-10A37F?style=flat&logo=openai&logoColor=white) — agents, personal automation, and applied AI infrastructure
-
----
-
-**Stack:**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=000000)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=20232A)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat&logo=bun&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=232F3E)
-![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ---
 

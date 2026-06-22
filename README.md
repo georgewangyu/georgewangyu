@@ -57,7 +57,7 @@ The best starting points if you want to see the shape of the work.
 - 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** —
   Reusable execution skills that turn messy workflows into repeatable agent
   capabilities.
-- 📡 **[George's Builder Radar](../george-builder-radar)** —
+- 📡 **[George's Builder Radar](https://github.com/%67eorgewangyu/george-builder-radar)** —
   Public AI systems digest from my morning routine, tracking builders, repos,
   launches, official AI/devtool updates, and podcasts.
 - 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — A public
@@ -95,7 +95,7 @@ The best starting points if you want to see the shape of the work.
 
 ### Creator Distribution Tools
 
-- 📡 **[George's Builder Radar](../george-builder-radar)** —
+- 📡 **[George's Builder Radar](https://github.com/%67eorgewangyu/george-builder-radar)** —
   Public builder and AI systems digest that turns my morning signal scan into a
   markdown feed and agent-deliverable skill.
 - 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning

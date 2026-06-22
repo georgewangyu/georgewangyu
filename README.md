@@ -65,9 +65,6 @@ The best starting points if you want to see the shape of the work.
 - 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval
   harness for whether coding agents follow instructions under real-world
   constraints like dirty worktrees, verification, and honest reporting.
-- 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning
-  traction radar for finding emerging product, creator, social, and developer
-  signals before they are obvious.
 - 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** —
   Personal landing page and link hub for the public creator surface.
 - 📨 **[Audience Request Form](https://github.com/georgewangyu/audience-request-form)** —

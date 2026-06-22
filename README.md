@@ -67,6 +67,9 @@ The best starting points if you want to see the shape of the work.
   signals before they are obvious.
 - 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** —
   Personal landing page and link hub for the public creator surface.
+- 📨 **[Audience Request Form](../audience-request-form)** —
+  Public request intake that turns audience video ideas and feature requests
+  into GitHub issues.
 
 ---
 

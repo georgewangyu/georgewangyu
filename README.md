@@ -60,6 +60,9 @@ The best starting points if you want to see the shape of the work.
 - 📡 **[George's Builder Radar](https://github.com/%67eorgewangyu/george-builder-radar)** —
   Public AI systems digest from my morning routine, tracking builders, repos,
   launches, official AI/devtool updates, and podcasts.
+- 🔁 **[Loops Radar](https://github.com/%67eorgewangyu/loops-radar)** —
+  Browseable catalog of reusable AI loops with searchable recipes and
+  GitHub-backed community submissions.
 - 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — A public
   personal-OS pattern for knowledge, agents, automations, and daily workflows.
 - 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval
@@ -90,6 +93,8 @@ The best starting points if you want to see the shape of the work.
   layers and agent skill formats for thinking, coding, and workflow design.
 - 🔁 **[GeorgeLoops](https://github.com/georgewangyu/GeorgeLoops)** — Catalog
   of recurring AI loops, scheduled scans, and maintenance rituals.
+- 📡 **[Loops Radar](https://github.com/%67eorgewangyu/loops-radar)** —
+  Public catalog UI for discovering, copying, and contributing reusable loops.
 - 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** —
   Source-grounded, agent-managed markdown wiki template with autologging.
 

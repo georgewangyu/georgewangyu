@@ -68,8 +68,12 @@ The best starting points if you want to see the shape of the work.
 - 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval
   harness for whether coding agents follow instructions under real-world
   constraints like dirty worktrees, verification, and honest reporting.
-- 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** —
-  Personal landing page and link hub for the public creator surface.
+- 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.vercel.app/)** —
+  Public home base, writing archive, project index, and about-me site for the
+  Snack Overflow creator surface.
+- 🔗 **[SnackOverflowGeorge Link Hub](https://github.com/%67eorgewangyu/SnackOverflowGeorge-Linktree)** —
+  Lightweight link-in-bio hub for routing people to social profiles and current
+  offers.
 - 📨 **[Audience Request Form](https://github.com/georgewangyu/audience-request-form)** —
   Public request intake that turns audience video ideas and feature requests
   into GitHub issues.
@@ -129,8 +133,10 @@ The best starting points if you want to see the shape of the work.
   -> Markdown workflows.
 - 🚀 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel
   built for an AI product.
-- 🔗 **[SnackOverflowGeorge](https://github.com/georgewangyu/SnackOverflowGeorge-Linktree)** —
-  Personal landing page and link hub.
+- 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.vercel.app/)** —
+  Public home base with posts, projects, RSS, and subscriber capture.
+- 🔗 **[SnackOverflowGeorge Link Hub](https://github.com/%67eorgewangyu/SnackOverflowGeorge-Linktree)** —
+  Lightweight link hub for social/profile routing.
 
 ---
 

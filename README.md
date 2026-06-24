@@ -60,6 +60,9 @@ The best starting points if you want to see the shape of the work.
 - 📡 **[George's Builder Radar](https://github.com/%67eorgewangyu/george-builder-radar)** —
   Public AI systems digest from my morning routine, tracking builders, repos,
   launches, official AI/devtool updates, and podcasts.
+- 🗺️ **[Repo Visualization Agent](https://github.com/%67eorgewangyu/repo-visualization-agent)** —
+  Static HTML codebase maps for humans and coding agents, with key files,
+  risk areas, exact snippets, and a developer-notebook UI.
 - 🔁 **[Loops Radar](https://github.com/%67eorgewangyu/loops-radar)** —
   Browseable catalog of reusable AI loops with searchable recipes and
   GitHub-backed community submissions.
@@ -93,6 +96,9 @@ The best starting points if you want to see the shape of the work.
   Modular execution skills and reusable tooling for liferepo-style workflows.
 - 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Agent
   evals for instruction-following, verification, and workflow discipline.
+- 🗺️ **[Repo Visualization Agent](https://github.com/%67eorgewangyu/repo-visualization-agent)** —
+  Static HTML codebase maps for humans and coding agents, with key files,
+  risk areas, exact snippets, and a developer-notebook UI.
 - 🛠️ **[GeorgeTeamAgentTemplate](https://github.com/georgewangyu/GeorgeTeamAgentTemplate)** —
   Opinionated team-agent starter with instructions, skills, hooks, tools, and
   memory.

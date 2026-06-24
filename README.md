@@ -63,7 +63,7 @@ The best starting points if you want to see the shape of the work.
 - 🔁 **[Loops Radar](https://github.com/%67eorgewangyu/loops-radar)** —
   Browseable catalog of reusable AI loops with searchable recipes and
   GitHub-backed community submissions.
-- 📚 **[George's Books Radar](https://books-radar.vercel.app/)** —
+- 📚 **[Books Radar](https://books-radar.vercel.app/)** —
   Lightweight reading recommendation radar with daily and weekly picks, a
   searchable shelf, and copyable George notes.
 - 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — A public

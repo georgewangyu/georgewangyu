@@ -51,36 +51,47 @@ creator tools in public as **[snackoverflowgeorge](https://www.tiktok.com/@snack
 
 The best starting points if you want to see the shape of the work.
 
-- <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first
+- <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snackvoice.snackoverflowgeorge.com)** — Local-first
   Mac dictation app with Ambient Capture for turning spoken context into usable
   notes.
 - 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** —
   Reusable execution skills that turn messy workflows into repeatable agent
   capabilities.
-- 📡 **[George's Builder Radar](https://github.com/%67eorgewangyu/george-builder-radar)** —
+- 📡 **[George's Builder Radar](https://georgebuilderradar.snackoverflowgeorge.com)** —
   Public AI systems digest from my morning routine, tracking builders, repos,
   launches, official AI/devtool updates, and podcasts.
 - 🗺️ **[Repo Visualization Agent](https://github.com/%67eorgewangyu/repo-visualization-agent)** —
   Static HTML codebase maps for humans and coding agents, with key files,
   risk areas, exact snippets, and a developer-notebook UI.
-- 🔁 **[Loops Radar](https://github.com/%67eorgewangyu/loops-radar)** —
+- 🔁 **[Loops Radar](https://loopsradar.snackoverflowgeorge.com)** —
   Browseable catalog of reusable AI loops with searchable recipes and
   GitHub-backed community submissions.
-- 📚 **[Books Radar](https://github.com/%67eorgewangyu/books-radar)** —
+- 📚 **[Books Radar](https://booksradar.snackoverflowgeorge.com)** —
   Lightweight reading recommendation radar with daily and weekly picks, a
   searchable shelf, and copyable George notes.
+- 📄 **[AI Radar](https://airadar.snackoverflowgeorge.com)** — AI crash-course
+  paper catalog with searchable reading paths, weekly feeds, and an installable
+  agent skill.
+- 📊 **[AI Leaderboard Radar](https://aileaderboardradar.snackoverflowgeorge.com)** —
+  Searchable leaderboard for lean AI-native companies with revenue-per-employee
+  receipts and an installable digest skill.
 - 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — A public
   personal-OS pattern for knowledge, agents, automations, and daily workflows.
 - 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval
   harness for whether coding agents follow instructions under real-world
   constraints like dirty worktrees, verification, and honest reporting.
-- 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.vercel.app/)** —
+- 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.com)** —
   Public home base, writing archive, project index, and about-me site for the
   Snack Overflow creator surface.
-- 🔗 **[SnackOverflowGeorge Link Hub](https://github.com/%67eorgewangyu/SnackOverflowGeorge-Linktree)** —
+- 🔗 **[SnackOverflowGeorge Link Hub](https://linktree.snackoverflowgeorge.com)** —
   Lightweight link-in-bio hub for routing people to social profiles and current
   offers.
-- 📨 **[Audience Request Form](https://github.com/georgewangyu/audience-request-form)** —
+- 🪝 **[Hooks Radar](https://hooksradar.snackoverflowgeorge.com)** — Searchable
+  catalog of reusable short-form video hook patterns.
+- 🏟️ **[Sports Radar](https://sportsradar.snackoverflowgeorge.com)** — Daily
+  sports internet feed for funny comments, lore, clips, fan threads, and
+  group-chat-worthy moments.
+- 📨 **[Audience Request Form](https://requests.snackoverflowgeorge.com)** —
   Public request intake that turns audience video ideas and feature requests
   into GitHub issues.
 
@@ -106,16 +117,28 @@ The best starting points if you want to see the shape of the work.
   layers and agent skill formats for thinking, coding, and workflow design.
 - 🔁 **[GeorgeLoops](https://github.com/georgewangyu/GeorgeLoops)** — Catalog
   of recurring AI loops, scheduled scans, and maintenance rituals.
-- 📡 **[Loops Radar](https://github.com/%67eorgewangyu/loops-radar)** —
+- 📡 **[Loops Radar](https://loopsradar.snackoverflowgeorge.com)** —
   Public catalog UI for discovering, copying, and contributing reusable loops.
+- 📄 **[AI Radar](https://airadar.snackoverflowgeorge.com)** — AI crash-course
+  paper catalog with searchable reading paths, weekly feeds, and an installable
+  agent skill.
+- 📊 **[AI Leaderboard Radar](https://aileaderboardradar.snackoverflowgeorge.com)** —
+  Searchable leaderboard for lean AI-native companies with revenue-per-employee
+  receipts and an installable digest skill.
 - 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** —
   Source-grounded, agent-managed markdown wiki template with autologging.
 
 ### Creator Distribution Tools
 
-- 📡 **[George's Builder Radar](https://github.com/%67eorgewangyu/george-builder-radar)** —
+- 📡 **[George's Builder Radar](https://georgebuilderradar.snackoverflowgeorge.com)** —
   Public builder and AI systems digest that turns my morning signal scan into a
   markdown feed and agent-deliverable skill.
+- 🪝 **[Hooks Radar](https://hooksradar.snackoverflowgeorge.com)** —
+  Searchable catalog of reusable short-form video hook patterns and installable
+  content-ideation skill.
+- 🏟️ **[Sports Radar](https://sportsradar.snackoverflowgeorge.com)** —
+  Daily sports internet feed for funny comments, lore, clips, fan threads, and
+  group-chat-worthy moments.
 - 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning
   radar for product, creator, social, and developer trend signals.
 - ❎ **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based
@@ -133,7 +156,7 @@ The best starting points if you want to see the shape of the work.
 
 ### Products & Experiments
 
-- <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snack-voice.vercel.app/)** — Local-first
+- <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snackvoice.snackoverflowgeorge.com)** — Local-first
   Mac dictation app with Ambient Capture.
 - 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Role-targeted
   resume variant engine with LaTeX and PDF output.
@@ -142,9 +165,9 @@ The best starting points if you want to see the shape of the work.
   -> Markdown workflows.
 - 🚀 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel
   built for an AI product.
-- 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.vercel.app/)** —
+- 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.com)** —
   Public home base with posts, projects, RSS, and subscriber capture.
-- 🔗 **[SnackOverflowGeorge Link Hub](https://github.com/%67eorgewangyu/SnackOverflowGeorge-Linktree)** —
+- 🔗 **[SnackOverflowGeorge Link Hub](https://linktree.snackoverflowgeorge.com)** —
   Lightweight link hub for social/profile routing.
 
 ---

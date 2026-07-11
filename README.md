@@ -66,34 +66,6 @@ The best starting points if you want to see the shape of the work.
 - 🔁 **[Loops Radar](https://loopsradar.snackoverflowgeorge.com)** —
   Browseable catalog of reusable AI loops with searchable recipes and
   GitHub-backed community submissions.
-- 📚 **[Books Radar](https://booksradar.snackoverflowgeorge.com)** —
-  Lightweight reading recommendation radar with daily and weekly picks, a
-  searchable shelf, and copyable George notes.
-- 📄 **[AI Radar](https://airadar.snackoverflowgeorge.com)** — AI crash-course
-  paper catalog with searchable reading paths, weekly feeds, and an installable
-  agent skill.
-- 📊 **[AI Leaderboard Radar](https://aileaderboardradar.snackoverflowgeorge.com)** —
-  Searchable leaderboard for lean AI-native companies with revenue-per-employee
-  receipts and an installable digest skill.
-- 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — A public
-  personal-OS pattern for knowledge, agents, automations, and daily workflows.
-- 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Eval
-  harness for whether coding agents follow instructions under real-world
-  constraints like dirty worktrees, verification, and honest reporting.
-- 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.com)** —
-  Public home base, writing archive, project index, and about-me site for the
-  Snack Overflow creator surface.
-- 🔗 **[SnackOverflowGeorge Link Hub](https://linktree.snackoverflowgeorge.com)** —
-  Lightweight link-in-bio hub for routing people to social profiles and current
-  offers.
-- 🪝 **[Hooks Radar](https://hooksradar.snackoverflowgeorge.com)** — Searchable
-  catalog of reusable short-form video hook patterns.
-- 🏟️ **[Sports Radar](https://sportsradar.snackoverflowgeorge.com)** — Daily
-  sports internet feed for funny comments, lore, clips, fan threads, and
-  group-chat-worthy moments.
-- 📨 **[Audience Request Form](https://requests.snackoverflowgeorge.com)** —
-  Public request intake that turns audience video ideas and feature requests
-  into GitHub issues.
 
 ---
 
@@ -139,6 +111,12 @@ The best starting points if you want to see the shape of the work.
 - 🏟️ **[Sports Radar](https://sportsradar.snackoverflowgeorge.com)** —
   Daily sports internet feed for funny comments, lore, clips, fan threads, and
   group-chat-worthy moments.
+- 📚 **[Books Radar](https://booksradar.snackoverflowgeorge.com)** —
+  Lightweight reading recommendation radar with daily and weekly picks, a
+  searchable shelf, and copyable George notes.
+- 📨 **[Audience Request Form](https://requests.snackoverflowgeorge.com)** —
+  Public request intake that turns audience video ideas and feature requests
+  into GitHub issues.
 - 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning
   radar for product, creator, social, and developer trend signals.
 - ❎ **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based

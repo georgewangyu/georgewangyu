@@ -114,9 +114,6 @@ The best starting points if you want to see the shape of the work.
 - 📚 **[Books Radar](https://booksradar.snackoverflowgeorge.com)** —
   Lightweight reading recommendation radar with daily and weekly picks, a
   searchable shelf, and copyable George notes.
-- 📨 **[Audience Request Form](https://requests.snackoverflowgeorge.com)** —
-  Public request intake that turns audience video ideas and feature requests
-  into GitHub issues.
 - 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning
   radar for product, creator, social, and developer trend signals.
 - ❎ **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based
@@ -160,3 +157,10 @@ The best starting points if you want to see the shape of the work.
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=georgewangyu&theme=dark&hide_border=true)](https://github.com/georgewangyu)
+
+---
+
+## Have an Idea or Feedback?
+
+Have a project idea, feature request, or video you want me to make?
+**[Send me a request →](https://requests.snackoverflowgeorge.com)**

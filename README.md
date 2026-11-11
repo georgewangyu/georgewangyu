@@ -36,30 +36,56 @@ creator tools in public as **[snackoverflowgeorge](https://www.tiktok.com/@snack
 
 ## Start Here
 
-- **[Featured Projects](#featured-projects)** - the best first clicks.
-- **[AI systems / agent infrastructure](#ai-systems--agent-infrastructure)** -
-  memory, reusable skills, evals, steering docs, and team-agent setup.
-- **[Creator distribution tools](#creator-distribution-tools)** - bots and
-  radars for spotting signals, publishing, and learning from short-form
-  platforms.
-- **[Products / experiments](#products--experiments)** - local-first apps,
-  resume tooling, document conversion, and SaaS/front-end experiments.
+1. **[Orchestrator agents](#orchestrator-agents)** — Jarvis AI George coordinates
+   scoped work across agents and projects.
+2. **[Installable agent plugins](#installable-agent-plugins)** — George Coding
+   Agent provides coding and review roles, with or without the orchestrator.
+3. **[Apps](#products--experiments)** — try SnackVoice and browse the products.
+4. **[Reusable skills](#reusable-skills)** — individual workflows from GeorgeSkills.
+5. **[Full project map](#project-map)** — infrastructure, creator tools, radars,
+   and earlier experiments.
 
 ---
 
 ## Featured Projects
 
-The best starting points if you want to see the shape of the work.
+### Orchestrator Agents
+
+- 🤖 **[Jarvis AI George](https://github.com/%67eorgewangyu/JarvisAIGeorge)** —
+  My public fork of [FirstMate](https://github.com/kunchenguid/firstmate): one
+  supervising agent coordinates scoped workers. Current work focuses on agent
+  orchestration with a shared-checkout default.
+  **[Setup for Claude Code and Codex](https://github.com/%67eorgewangyu/JarvisAIGeorge/blob/main/docs/install.md)** ·
+  **[Plugin and extension guide](https://github.com/%67eorgewangyu/JarvisAIGeorge/blob/main/docs/jarvis-plugins.md)**
+
+### Installable Agent Plugins
+
+Specialist roles and their workflows. These can work independently or pair
+with Jarvis; the current plugin is George Coding Agent.
+
+- 🛠️ **[George Coding Agent](https://github.com/%67eorgewangyu/GeorgeCodingAgent)** —
+  A coding worker, a read-only reviewer, and skills for planning, building,
+  verifying, reviewing, and shipping.
+  **[Install for Claude Code or Codex](https://github.com/%67eorgewangyu/GeorgeCodingAgent#install)**
+
+### Apps
 
 - <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snackvoice.snackoverflowgeorge.com)** — Local-first
   Mac dictation app with Ambient Capture for turning spoken context into usable
   notes.
-- 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** —
-  Reusable execution skills that turn messy workflows into repeatable agent
-  capabilities.
+
+### Reusable Skills
+
+- 🧩 **[GeorgeSkills](https://github.com/%67eorgewangyu/georgeskills)** —
+  Individual execution skills for repeatable workflows, from research and
+  writing to exports and local operations.
+  **[Installation and assistant discovery](https://github.com/%67eorgewangyu/georgeskills#installation)**
+
+### More Starting Points
+
 - 📡 **[George's Builder Radar](https://georgebuilderradar.snackoverflowgeorge.com)** —
-  Public AI systems digest from my morning routine, tracking builders, repos,
-  launches, official AI/devtool updates, and podcasts.
+  Public AI systems digest tracking builders, repos, launches, official
+  AI/devtool updates, and podcasts.
 - 🗺️ **[Repo Visualization Agent](https://github.com/%67eorgewangyu/repo-visualization-agent)** —
   Static HTML codebase maps for humans and coding agents, with key files,
   risk areas, exact snippets, and a developer-notebook UI.
@@ -73,21 +99,25 @@ The best starting points if you want to see the shape of the work.
 
 ### AI Systems & Agent Infrastructure
 
-- 🧠 **[liferepo](https://github.com/georgewangyu/liferepo)** — Personal OS
+- 🤖 **[Jarvis AI George](https://github.com/%67eorgewangyu/JarvisAIGeorge)** —
+  Orchestration: supervising agent and scoped workers, forked from FirstMate.
+- 🛠️ **[George Coding Agent](https://github.com/%67eorgewangyu/GeorgeCodingAgent)** —
+  Installable specialist plugin for coding and review.
+- 🧠 **[liferepo](https://github.com/%67eorgewangyu/liferepo)** — Public templates and guidance
   for knowledge, agents, and automation.
-- 🧩 **[georgeskills](https://github.com/georgewangyu/georgeskills)** —
+- 🧩 **[georgeskills](https://github.com/%67eorgewangyu/georgeskills)** —
   Modular execution skills and reusable tooling for liferepo-style workflows.
-- 🧪 **[SteeringBench](https://github.com/georgewangyu/SteeringBench)** — Agent
+- 🧪 **[SteeringBench](https://github.com/%67eorgewangyu/SteeringBench)** — Agent
   evals for instruction-following, verification, and workflow discipline.
 - 🗺️ **[Repo Visualization Agent](https://github.com/%67eorgewangyu/repo-visualization-agent)** —
   Static HTML codebase maps for humans and coding agents, with key files,
   risk areas, exact snippets, and a developer-notebook UI.
-- 🛠️ **[GeorgeTeamAgentTemplate](https://github.com/georgewangyu/GeorgeTeamAgentTemplate)** —
+- 🛠️ **[GeorgeTeamAgentTemplate](https://github.com/%67eorgewangyu/GeorgeTeamAgentTemplate)** —
   Opinionated team-agent starter with instructions, skills, hooks, tools, and
   memory.
-- 💬 **[promptrepo](https://github.com/georgewangyu/promptrepo)** — Prompt
+- 💬 **[promptrepo](https://github.com/%67eorgewangyu/promptrepo)** — Prompt
   layers and agent skill formats for thinking, coding, and workflow design.
-- 🔁 **[GeorgeLoops](https://github.com/georgewangyu/GeorgeLoops)** — Catalog
+- 🔁 **[GeorgeLoops](https://github.com/%67eorgewangyu/GeorgeLoops)** — Catalog
   of recurring AI loops, scheduled scans, and maintenance rituals.
 - 📡 **[Loops Radar](https://loopsradar.snackoverflowgeorge.com)** —
   Public catalog UI for discovering, copying, and contributing reusable loops.
@@ -97,7 +127,7 @@ The best starting points if you want to see the shape of the work.
 - 📊 **[AI Leaderboard Radar](https://aileaderboardradar.snackoverflowgeorge.com)** —
   Searchable leaderboard for lean AI-native companies with revenue-per-employee
   receipts and an installable digest skill.
-- 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/georgewangyu/LLM-Wiki-Karpathy-by-George)** —
+- 📚 **[LLM-Wiki-Karpathy-by-George](https://github.com/%67eorgewangyu/LLM-Wiki-Karpathy-by-George)** —
   Source-grounded, agent-managed markdown wiki template with autologging.
 
 ### Creator Distribution Tools
@@ -114,36 +144,68 @@ The best starting points if you want to see the shape of the work.
 - 📚 **[Books Radar](https://booksradar.snackoverflowgeorge.com)** —
   Lightweight reading recommendation radar with daily and weekly picks, a
   searchable shelf, and copyable George notes.
-- 🔭 **[IgnitionBot](https://github.com/georgewangyu/ignitionbot)** — Morning
+- 🔭 **[IgnitionBot](https://github.com/%67eorgewangyu/ignitionbot)** — Morning
   radar for product, creator, social, and developer trend signals.
-- ❎ **[xbot](https://github.com/georgewangyu/xbot)** — Native browser-based
+- ❎ **[xbot](https://github.com/%67eorgewangyu/xbot)** — Native browser-based
   X/Twitter CLI client.
-- 💼 **[lbot](https://github.com/georgewangyu/lbot)** — LinkedIn automation
+- 💼 **[lbot](https://github.com/%67eorgewangyu/lbot)** — LinkedIn automation
   CLI for OAuth bootstrap and official posting.
-- 📺 **[youtubebot](https://github.com/georgewangyu/youtubebot)** — YouTube
+- 📺 **[youtubebot](https://github.com/%67eorgewangyu/youtubebot)** — YouTube
   outlier research CLI for low-subscriber, high-view inspiration videos.
-- 🎵 **[tiktokbot](https://github.com/georgewangyu/tiktokbot)** — TikTok
+- 🎵 **[tiktokbot](https://github.com/%67eorgewangyu/tiktokbot)** — TikTok
   Display API client for owned-account analytics and outlier ranking.
-- 📸 **[igbot](https://github.com/georgewangyu/igbot)** — Instagram official
+- 📸 **[igbot](https://github.com/%67eorgewangyu/igbot)** — Instagram official
   API client for owned-account media analytics, insights, and outlier ranking.
-- 🎬 **[capcutbot](https://github.com/georgewangyu/capcutbot)** — CapCut
+- 🎬 **[capcutbot](https://github.com/%67eorgewangyu/capcutbot)** — CapCut
   desktop draft automation CLI for short-form editing workflows.
 
 ### Products & Experiments
 
 - <img src="assets/I3CGy.png" alt="SnackVoice icon" width="18" valign="text-bottom" /> **[SnackVoice](https://snackvoice.snackoverflowgeorge.com)** — Local-first
   Mac dictation app with Ambient Capture.
-- 📄 **[ResumeAI](https://github.com/georgewangyu/resumeai)** — Role-targeted
+- 📄 **[ResumeAI](https://github.com/%67eorgewangyu/resumeai)** — Role-targeted
   resume variant engine with LaTeX and PDF output.
-- 🔁 **[DocConvert](https://github.com/georgewangyu/docconvert)** —
+- 🔁 **[DocConvert](https://github.com/%67eorgewangyu/docconvert)** —
   Skill-first document conversion toolkit for LaTeX -> PDF and multi-format
   -> Markdown workflows.
-- 🚀 **[Ada](https://github.com/georgewangyu/ADA)** — SaaS frontend funnel
-  built for an AI product.
 - 📝 **[SnackOverflowGeorge](https://snackoverflowgeorge.com)** —
   Public home base with posts, projects, RSS, and subscriber capture.
 - 🔗 **[SnackOverflowGeorge Link Hub](https://linktree.snackoverflowgeorge.com)** —
   Lightweight link hub for social/profile routing.
+
+### Catalog Source Repositories
+
+The sites above also have public source repositories:
+[Builder Radar](https://github.com/%67eorgewangyu/george-builder-radar) ·
+[Loops Radar](https://github.com/%67eorgewangyu/loops-radar) ·
+[AI Radar](https://github.com/%67eorgewangyu/ai-radar) ·
+[AI Leaderboard Radar](https://github.com/%67eorgewangyu/ai-leaderboard-radar) ·
+[Hooks Radar](https://github.com/%67eorgewangyu/hooksradar) ·
+[Sports Radar](https://github.com/%67eorgewangyu/sports-radar) ·
+[Books Radar](https://github.com/%67eorgewangyu/books-radar) ·
+[Link Hub](https://github.com/%67eorgewangyu/SnackOverflowGeorge-Linktree).
+
+### More Tools & Earlier Projects
+
+- 🧾 **[AI Task Receipt](https://github.com/%67eorgewangyu/ai-task-receipt)** —
+  Run tasks through coding CLIs and compare runtime and verification receipts.
+- 🌎 **[Cross-Border Money Profile](https://github.com/%67eorgewangyu/cross-border-money-profile)** —
+  Local-first budgeting questionnaire and installable agent skill.
+- 📬 **[Audience Request Form](https://github.com/%67eorgewangyu/audience-request-form)** —
+  Public ideas and requests routed into GitHub issues.
+- 📝 **[Notes App](https://github.com/%67eorgewangyu/notes-app)** —
+  Voice notes and AI summaries.
+- 💬 **[Huddle](https://github.com/%67eorgewangyu/Huddle)** — Live chat rooms.
+- 🎧 **[Podcast Free Ads](https://github.com/%67eorgewangyu/Podcast_Free_Ads)** —
+  Earlier machine-learning experiment for podcast ad removal.
+- 📊 **[modelGraph](https://github.com/%67eorgewangyu/modelGraph)** —
+  Numeric data modeling with ggplot.
+- **[Build Wheel](https://github.com/%67eorgewangyu/build-wheel)** ·
+  **[Personal Assistant GPT](https://github.com/%67eorgewangyu/personal-assistant-gpt)** ·
+  **[Tradebot](https://github.com/%67eorgewangyu/tradebot)** ·
+  **[Novela Blog](https://github.com/%67eorgewangyu/novela-blog)** ·
+  **[Earlier website](https://github.com/%67eorgewangyu/georgewang)** —
+  Additional public projects and experiments.
 
 ---
 
